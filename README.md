@@ -27,7 +27,7 @@ Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueb
 
 Puedes descargar mi curriculum haciendo clic en el siguiente enlace:
 
-[Mi curriculum]([https://github.com/XJuanM/hv/raw/main/C..V.pdf])
+[Mi curriculum](https://github.com/XJuanM/hv/raw/main/C..V.pdf)
   
 #### P.D. No te olvides de darle una estrella a mi perfil
 
