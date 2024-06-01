@@ -27,7 +27,7 @@ Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueb
 
 Puedes descargar mi curriculum haciendo clic en el siguiente enlace:
 
-[Descargar curriculum]([ruta/a/https://drive.google.com/file/d/1_5eds4EMg2Zgj2gTcj3J5_WA5zj-7H39/view?usp=sharing])
+[Descargar curriculum]([https://smallpdf.com/es/file#s=dd6229a5-d3a0-4bb3-968e-3a08efeac5d7])
   
 #### P.D. No te olvides de darle una estrella a mi perfil
 
