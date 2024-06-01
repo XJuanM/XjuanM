@@ -21,7 +21,7 @@ Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueb
 ### Contacto
 
 - **Email:** [jm591044@gmail.com](mailto:jm591044@gmail.com)
-- **LinkedIn:** [Juan Carlos Martinez](https://www.linkedin.com/in/juan-carlos-martinez-b68388276/)
+- **LinkedIn:** [Juan Carlos Martinez](https://www.linkedin.com/in/xjuanm)
 
 ### Hoja de vida
 
