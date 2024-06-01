@@ -1,32 +1,35 @@
-# 🧐 Acerca de Mi:
-<br>
-¡Hola! Soy Juan, un apasionado desarrollador de software de 19 años.<br><br>
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+================================================================================================================================================================================================
 
-<b>|¿Qué me motiva?</b><br><br>
+Soy Juan, un desarrollador apasionado por la tecnología y el desarrollo de software. Mi principal motivación es la insaciable curiosidad por el mundo de la tecnología y el deseo constante de aprender y superar mis habilidades. Creo firmemente en el poder del software para transformar vidas y resolver problemas complejos, y me emociona ser parte de ese proceso.
 
-Me impulsa una insaciable curiosidad por el mundo de la tecnología y un deseo ardiente de aprender y superar constantemente mis habilidades. Soy un firme creyente en el poder del software para transformar vidas y resolver problemas complejos, y me emociona ser parte de ese proceso.<br><br>
+### ¿Qué me motiva?
 
-<b>|¿Qué me diferencia?</b><br><br>
+Me impulsa una insaciable curiosidad por el mundo de la tecnología y un ardiente deseo de aprender y superar constantemente mis habilidades. Creo firmemente en el poder del software para transformar vidas y resolver problemas complejos, y me emociona ser parte de ese proceso.
 
-Actitud de principiante: Abordo cada proyecto con entusiasmo y una mente abierta, siempre dispuesto a aprender nuevas tecnologías y metodologías.<br>
+### ¿Qué me diferencia?
 
-Trabajo en equipo: Soy un jugador de equipo colaborativo y eficaz, capaz de trabajar en armonía con otros para lograr objetivos comunes.<br>
+- **Actitud de principiante:** Abordo cada proyecto con entusiasmo y una mente abierta, siempre dispuesto a aprender nuevas tecnologías y metodologías.
+- **Trabajo en equipo:** Soy un jugador de equipo colaborativo y eficaz, capaz de trabajar en armonía con otros para lograr objetivos comunes.
+- **Autodidacta:** Tengo una gran capacidad para aprender de forma independiente y busco constantemente nuevos desafíos para ampliar mis conocimientos.
+- **Entusiasta:** Soy un apasionado de la programación y mi entusiasmo por lo que hago se refleja en mi trabajo dedicado y en mi compromiso con la excelencia.
 
-Autodidacta: Poseo una gran capacidad para aprender de forma independiente y estoy constantemente buscando nuevos desafíos para ampliar mis conocimientos.<br>
+### ¿Qué busco?
 
-Entusiasta: Soy un apasionado de la programación y me contagia el entusiasmo por lo que hago. Esta pasión se refleja en mi trabajo dedicado y en mi compromiso con la excelencia.<br><br>
+Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueba mis habilidades, aprender de mentores experimentados y contribuir a proyectos impactantes. Estoy particularmente interesado en el Desarrollo Web.
 
-<b>|¿Qué busco?</b><br><br>
+### Contacto
 
-Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueba mis habilidades, aprender de mentores experimentados y contribuir a proyectos impactantes. Estoy particularmente interesado en Desarrollo Web.<br><br>
+- **Email:** [jm591044@gmail.com](mailto:jm591044@gmail.com)
+- **LinkedIn:** [Juan Carlos Martinez](https://www.linkedin.com/in/juan-carlos-martinez-b68388276/)
 
-<b>|¿Te interesa saber más?</b><br><br>
+### Hoja de vida
 
-¡No dudes en explorar mi repositorio para ver algunos de mis proyectos anteriores! También puedes contactarme a través de mi correo electrónico jm591044@gmail.com para conversar sobre oportunidades potenciales o simplemente para hablar sobre tecnología.<br><br>
+Puedes descargar mi curriculum haciendo clic en el siguiente enlace:
 
-¡Espero con ansias conectar contigo!<br><br>
-
-<b>P.D. No te olvides de darle una estrella a mi perfil</b>
+[Descargar curriculum]([ruta/a/https://drive.google.com/file/d/1_5eds4EMg2Zgj2gTcj3J5_WA5zj-7H39/view?usp=sharing])
+  
+#### P.D. No te olvides de darle una estrella a mi perfil
 
 # 💻 Skills:
 
