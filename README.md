@@ -25,9 +25,8 @@ Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueb
 
 ### Hoja de vida
 
-Puedes descargar mi curriculum haciendo clic en el siguiente enlace:
+Aqui puedes descargar mi [Hoja de vida.](https://github.com/XJuanM/hv/raw/main/C..V.pdf)
 
-[Mi curriculum](https://github.com/XJuanM/hv/raw/main/C..V.pdf)
   
 #### P.D. No te olvides de darle una estrella a mi perfil
 
