@@ -1,12 +1,12 @@
 # 🧐 Acerca de Mi:
 <br>
-¡Hola! Soy Juan, un apasionado desarrollador de software de 19 años originario de Colombia.<br><br>
+¡Hola! Soy Juan, un apasionado desarrollador de software de 19 años.<br><br>
 
-<b>¿Qué me motiva?</b><br><br>
+<b>|¿Qué me motiva?</b><br><br>
 
 Me impulsa una insaciable curiosidad por el mundo de la tecnología y un deseo ardiente de aprender y superar constantemente mis habilidades. Soy un firme creyente en el poder del software para transformar vidas y resolver problemas complejos, y me emociona ser parte de ese proceso.<br><br>
 
-<b>¿Qué me diferencia?</b><br><br>
+<b>|¿Qué me diferencia?</b><br><br>
 
 Actitud de principiante: Abordo cada proyecto con entusiasmo y una mente abierta, siempre dispuesto a aprender nuevas tecnologías y metodologías.<br>
 
@@ -16,11 +16,11 @@ Autodidacta: Poseo una gran capacidad para aprender de forma independiente y est
 
 Entusiasta: Soy un apasionado de la programación y me contagia el entusiasmo por lo que hago. Esta pasión se refleja en mi trabajo dedicado y en mi compromiso con la excelencia.<br><br>
 
-<b>¿Qué busco?</b><br><br>
+<b>|¿Qué busco?</b><br><br>
 
 Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueba mis habilidades, aprender de mentores experimentados y contribuir a proyectos impactantes. Estoy particularmente interesado en Desarrollo Web.<br><br>
 
-<b>¿Te interesa saber más?</b><br><br>
+<b>|¿Te interesa saber más?</b><br><br>
 
 ¡No dudes en explorar mi repositorio para ver algunos de mis proyectos anteriores! También puedes contactarme a través de mi correo electrónico jm591044@gmail.com para conversar sobre oportunidades potenciales o simplemente para hablar sobre tecnología.<br><br>
 
