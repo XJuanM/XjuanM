@@ -27,7 +27,7 @@ Busco oportunidades donde pueda seguir desarrollando mis habilidades en desarrol
 
 ### Hoja de vida
 
-Aqui puedes descargar mi [Hoja de vida.](https://github.com/XJuanM/CV/blob/main/C..V.pdf)
+Aqui puedes descargar mi [Hoja de vida.](https://github.com/XJuanM/CV/raw/main/C..V.pdf)
 
   
 <!--#### P.D. No te olvides de darle una estrella a mi perfil
