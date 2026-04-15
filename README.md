@@ -1,7 +1,9 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================================================================================
 
-Soy Juan, un desarrollador apasionado por la tecnología y el desarrollo de software. Mi principal motivación es la insaciable curiosidad por el mundo de la tecnología y el deseo constante de aprender y superar mis habilidades.
+Soy Juan, un desarrollador apasionado por la tecnología y el desarrollo de software. Me interesa construir soluciones prácticas y mejorar constantemente mis habilidades a través de proyectos reales.
+
+Trabajo principalmente con tecnologías web y me enfoco en escribir código claro, funcional y mantenible. Disfruto aprender nuevas herramientas cuando son necesarias, no solo por tendencia.
 
 ### ¿Qué me motiva?
 
@@ -16,7 +18,7 @@ Me impulsa una insaciable curiosidad por el mundo de la tecnología y un ardient
 
 ### ¿Qué busco?
 
-Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueba mis habilidades, aprender de mentores experimentados y contribuir a proyectos impactantes. Estoy particularmente interesado en el Desarrollo Web.
+Busco oportunidades donde pueda seguir desarrollando mis habilidades en desarrollo web, aportar valor real y trabajar con personas que exijan un buen nivel técnico.
 
 ### Contacto
 
@@ -28,5 +30,4 @@ Anhelo formar parte de un equipo innovador y dinámico donde pueda poner a prueb
 Aqui puedes descargar mi [Hoja de vida.](https://github.com/XJuanM/hv/raw/main/C..V.pdf)
 
   
-#### P.D. No te olvides de darle una estrella a mi perfil
-
+<!--#### P.D. No te olvides de darle una estrella a mi perfil
